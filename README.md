@@ -1,24 +1,22 @@
 # traektoria
 
-## Project setup
+## установить зависимости
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### запустить локально
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### билд
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### линтер
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
